@@ -13,5 +13,5 @@ sl
 echo
 echo -e "\e[1n Subscribe to Termux Tricks & Tut"
 echo
-echo -e "\e[1m\e[32m Enter :\e[33m php vu.php"
+echo -e "\e[1m\e[32m Enter :\e[33m php hols.php"
 echo
